@@ -150,7 +150,7 @@ section.light .dark:before{
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: -15%;
+  margin-top: -35%;
   position: absolute;
   flex-direction: column;
   font-family: 'Poppins', sans-serif;
